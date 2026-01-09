@@ -33,10 +33,10 @@ The agent is capable of conducting natural conversations, answering questions ab
 
 ## 💼 Business Impact
 
-✔️ **Automates up to 80%** of initial client consultations.
-✔️ **Reduces manager workload by 15-20 hours per week**, freeing them up for closing deals.
-✔️ **Increases response speed** to inquiries, with instant notifications for hot leads.
-✔️ **Standardizes answers** across three languages, ensuring consistent communication.
+-  ✔️ **Automates up to 80%** of initial client consultations.
+-  ✔️ **Reduces manager workload by 15-20 hours per week**, freeing them up for closing deals.
+-  ✔️ **Increases response speed** to inquiries, with instant notifications for hot leads.
+-  ✔️ **Standardizes answers** across three languages, ensuring consistent communication.
 
 ## 💬 Key Capabilities
 
